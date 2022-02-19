@@ -1,4 +1,5 @@
 
+Bug_id: 26
 Summary: "Loggin Page. The button 'Sigh in' not responding after clicking on it"
 STR:
     1) Open the login page
@@ -8,3 +9,6 @@ Result: "The button 'Sigh in' not responding after clicking on it"
 Expected result: "After clicking the button, the user page opens"
 Severity: Major
 Priority: High
+Enviroment:
+    OS: Windows 10 Pro.64-разрядная операционная система, процессор x64
+    Browser: Google Chrome v.98.0.4758.102 (Розробка) (64-розрядна версія)
